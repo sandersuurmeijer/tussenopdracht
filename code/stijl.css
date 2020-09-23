@@ -6,14 +6,16 @@ h2 {
     position: relative;
     top: 5px;
     right: 5px;
+    color: chartreuse
 }
 
 p {
  font-family: 'Barlow', sans-serif;
+ color:green
 }
 .sander {
     position: relative;
-    top: -607px;
+    top: -527px;
     right: 69px;
 }
 .scouting {
