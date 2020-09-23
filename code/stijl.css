@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+    font-family: 'Courier Prime', monospace;
+}
+h2 {
+    position: relative;
+    top: 5px;
+    right: 5px;
+}
+
+p {
+ font-family: 'Barlow', sans-serif;
+}
+.sander {
+    position: relative;
+    top: -607px;
+    right: 69px;
+}
+.scouting {
+    position: relative
+    top: 30px
+    left:100px
+}
